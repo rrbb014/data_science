@@ -1,5 +1,5 @@
 
-
+numpy
 pandas==0.18.1
 requests==2.10.0
 pep8
