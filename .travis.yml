@@ -8,6 +8,9 @@ install:
     - pip install -r requirements.txt
 script:
     - pep8 .
+<<<<<<< HEAD
+=======
 
 notifications:
   slack: rrbb014auto:BZRWFUGJgtGHeYKWNMbzINjX
+>>>>>>> rb_branch1
